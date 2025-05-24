@@ -17,6 +17,7 @@ if not b_check:
 if not c_check:
     print("enter a value for 'c'")
 
+#output
 if a_check and b_check and c_check:
     a = int(a)
     b = int(b)
